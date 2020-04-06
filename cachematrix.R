@@ -38,4 +38,3 @@ cacheSolve <- function(x, ...) {
 #x <- matrix(c(4,7,2,9), nrow = 2, ncol = 2)
 #x1 <- makeCacheMatrix(x)
 #cacheSolve(x1)
-03fce81e594a27b2929195590f974c694cfaa0cd
